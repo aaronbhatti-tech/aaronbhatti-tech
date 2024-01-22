@@ -4,7 +4,7 @@ I'm a software engineer with a passion for building web applications. I speciali
 
 When I'm not coding, you can find me horsing around with my two children or playing five a-side football.
 
-- 📫 Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/aaron-bhatti-1035612ab/)
+- 📫 Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/aaronbhatti-tech/)
 - 🌱 I’m currently learning about domain driven design and building microservices based applications.
 - 😄 Pronouns: he/him
 
@@ -22,4 +22,4 @@ When I'm not coding, you can find me horsing around with my two children or play
 
 ## 📫 Contact
 
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/aaron-bhatti-1035612ab/).
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/aaronbhatti-tech/).
