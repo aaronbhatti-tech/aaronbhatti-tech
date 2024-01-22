@@ -14,7 +14,7 @@ When I'm not coding, you can find me horsing around with my two children or play
  
 **Version Control:** `Git` `GitLab` `Bitbucket`
 
-**Backend Development:** `C#` `.NET Core`, `SQL`
+**Backend Development:** `C#` `.NET Core`, `SQL`, `Azure Functions`
 
 **Testing:** `Postman` `Spectre`
 
@@ -22,4 +22,4 @@ When I'm not coding, you can find me horsing around with my two children or play
 
 ## 📫 Contact
 
- For a quick response, [LinkedIn](https://www.linkedin.com/in/aaron-bhatti-1035612ab/).
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/aaron-bhatti-1035612ab/).
