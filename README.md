@@ -16,7 +16,7 @@ When I'm not coding, you can find me horsing around with my two children or play
 
 **Backend Development:** `C#` `.NET Core`, `SQL`, `Azure Functions`
 
-**Testing:** `Postman` `Spectre`
+**Testing:** `Postman` `Specflow`
 
 **Others:** `Scrum` `Confluence` `Jira`
 
