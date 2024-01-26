@@ -22,7 +22,7 @@ When I'm not coding, you can find me spending quality time with my family or pla
 
 ## ✨ Fun Facts 
 
-- The Legion of Doom was my favorite WWF wrestling team.
+- The Legion of Doom were my favorite WWF wrestling team.
 - As a kid, I aspired to be a professional football player.
 - I enjoy building things and have even built my own PC from scratch.
 
