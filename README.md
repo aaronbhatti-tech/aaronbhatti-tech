@@ -12,7 +12,7 @@ When I'm not coding, you can find me spending quality time with my family or pla
 
 **Frontend Development:** `Angular`, `TypeScript`
  
-**Version Control:** `Git`, `GitLab`, `Bitbucket`
+**Version Control:** `Git`, `Bitbucket`
 
 **Backend Development:** `C#`, `.NET Core`, `SQL`, `Azure Functions`
 
